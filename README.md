@@ -31,14 +31,14 @@ Build a robust fraud detection system by combining:
 
 Total Transactions: 203,769
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 * Severe class imbalance (few fraud cases)
 * Time-based transaction trends
 * Graph visualization using NetworkX
 
 
-## ⚙️ Graph Feature Engineering
+## Graph Feature Engineering
 
 We engineered **13 graph-based features** using classical algorithms:
 
@@ -180,3 +180,5 @@ python evaluation.py
 * Heuristic features improve interpretability
 * GNN captures deep relational patterns
 * Ensemble model achieves best performance
+
+
