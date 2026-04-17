@@ -9,7 +9,7 @@ Edges → Fund transfers
 
 The system integrates:
 Deep Learning (GCN) for relational pattern learning
-Graph heuristics + ML (XGBoost / Random Forest) for structural insights
+Graph heuristics + ML (XGBoost / Random Forest) for structural insights which will taken from different graph algorithm
 
 Build a robust fraud detection system by combining:
 
