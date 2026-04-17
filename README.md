@@ -17,7 +17,7 @@ Build a robust fraud detection system by combining:
 * Machine Learning
 * Deep Learning (GNNs)
 
-## 📂 Dataset
+## Dataset
 
 **Elliptic Bitcoin Transaction Dataset**
 
