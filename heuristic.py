@@ -261,7 +261,7 @@ for node in nodes:
     dfs_flow_score[node] = flow_score_iter(node, adj_list)
     bfs_layering_score[node] = bfs_layering(node, adj_list)
 
-accounts = pd.read_csv('elliptic_txs_classes.csv')
+accounts = pd.read_csv('data/elliptic_txs_classes.csv')
 account_no = accounts["txId"].astype(int).tolist()
 label_map = accounts.set_index("txId")["class"].to_dict()
 
